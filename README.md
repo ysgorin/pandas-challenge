@@ -1,6 +1,6 @@
 # pandas-challenge
 
-This author was tasked with analyzing school and student data using Python, the Pandas library, and Jupyter Notebook.
+This author was tasked with analyzing school district standardized test results using Python, the Pandas library, and Jupyter Notebook.
 
 This analysis contains:
 * a dataframe of the district's high schools' key metrics
